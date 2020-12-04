@@ -15,3 +15,17 @@ class ExampleUnitTest {
         assertEquals(4, 2 + 2)
     }
 }
+
+class TitleSurfaceViewTest{
+    @Test
+    fun testGetGun() {
+        assertEquals(4, 2 + 2)
+    }
+
+    @Test
+    fun testSurfaceCreated() {
+
+    }
+    fun testSurfaceChanged() {}
+    fun testSurfaceDestroyed() {}
+}
